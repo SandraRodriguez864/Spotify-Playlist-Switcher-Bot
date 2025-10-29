@@ -27,7 +27,7 @@ A production-ready Android automation that smart-switches between Spotify playli
    <strong>If you are looking for custom Spotify Playlist Switcher Bot, you've just found your team — Let’s Chat.👆👆</strong>
 </p>
 
-##Introduction
+## Introduction
 This bot automates playlist switching on Spotify across Android real devices and emulators. It observes your configured rules (time-of-day, Wi-Fi/BT connect, device motion, calendar status, focus mode) and seamlessly switches playlists without needing desktop integrations.  
 It solves the repetitive workflow of opening Spotify, navigating to a playlist, and tapping play — dozens of times a day.  
 Benefit: consistent routine, saved time, and zero-interruption context shifts for creators, students, and teams.
